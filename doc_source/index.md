@@ -30,6 +30,7 @@ Amazon's trademarks and trade dress may not be used in
 + [Authentication and Access control for AWS IoT 1-Click](1click-authentication.md)
 + [Tagging Your AWS IoT 1-Click Resources](tagging.md)
 + [AWS IoT Enterprise Button User Guide](button-guide.md)
++ [Using AWS IoT 1-Click with the AWS CLI](1click-cli.md)
 + [AWS IoT 1-Click Appendix](1click-appendix.md)
 + [Document History for Developer Guide](doc-history.md)
 + [AWS Glossary](glossary.md)
